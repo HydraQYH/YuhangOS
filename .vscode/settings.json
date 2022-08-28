@@ -1,0 +1,15 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "print.h": "c",
+        "init.h": "c",
+        "debug.h": "c",
+        "stdio.h": "c",
+        "interrupt.h": "c",
+        "ioqueue.h": "c",
+        "stdint.h": "c",
+        "global.h": "c",
+        "memory.h": "c",
+        "list.h": "c"
+    }
+}
